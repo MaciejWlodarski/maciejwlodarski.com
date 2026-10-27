@@ -1,0 +1,10 @@
+services:
+  site-api:
+    build: .
+    image: maciejwlodarski/site-api:latest
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "127.0.0.1:8810:8810"
+    volumes:
+      - ./data:/data
