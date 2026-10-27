@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Maciej Włodarski — MW</title>
+  <style>
+    .ground { fill: #f5f5f7; }
+    .mark { fill: #0a66d8; }
+    @media (prefers-color-scheme: dark) {
+      .ground { fill: #1d1d1f; }
+      .mark { fill: #4fa8ff; }
+    }
+  </style>
+  <rect class="ground" width="32" height="32" rx="7"/>
+  <!-- M on top and the same M mirrored below as W; the middles converge to flat ends with a gap -->
+  <path class="mark" d="M6 14V4h4l4 6h4l4-6h4v10h-4V9l-4 6h-4l-4-6v5ZM6 18v10h4l4-6h4l4 6h4V18h-4v5l-4-6h-4l-4 6v-5Z"/>
+</svg>
