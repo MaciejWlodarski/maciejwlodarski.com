@@ -16,7 +16,7 @@ export default defineConfig({
   plugins: [
     ...(useRedact ? [redact()] : []),
     tailwindcss(),
-    tanstackStart(),
+    tanstackStart({ prerender: { enabled: true, crawlLinks: true } }),
     viteReact(),
   ],
 })

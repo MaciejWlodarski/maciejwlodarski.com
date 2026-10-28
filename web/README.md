@@ -25,6 +25,10 @@ and `https://api.maciejwlodarski.com/spotify/feed` in production. Set
 `VITE_MUSIC_FEED` at build time to use another endpoint. When the feed is
 unavailable, the site displays a disconnected state.
 
+The build prerenders `/` and `/en` to static HTML in `dist/client`, and
+`scripts/render-404.mjs` adds `404.html` and `en/404.html`. Production serves
+`dist/client` as static files, with no Node.js server.
+
 The Burrow image used on the site is an earlier interface render with synthetic
 example files; it is not a current desktop screenshot.
 

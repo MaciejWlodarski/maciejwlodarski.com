@@ -31,6 +31,8 @@ flow and requires the configured admin key.
 The SQLite data directory contains listening history and the Spotify refresh
 token. Keep it and the `.env` file private, and use HTTPS and an appropriately
 protected deployment when running the service outside a local environment.
+The container runs as the `node` user (uid 1000), so the host `data` directory
+must be writable by that uid, for example `sudo chown 1000:1000 data`.
 
 ## Endpoints
 
