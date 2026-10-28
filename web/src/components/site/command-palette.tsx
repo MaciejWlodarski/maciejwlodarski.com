@@ -21,7 +21,7 @@ function groups(lang: Lang): [string, Cmd[]][] {
       [
         "Go to",
         [
-          { label: "3D demo: from model to solid", hint: "section", icon: MoveRightIcon, run: go("demo-3d") },
+          { label: "3D demo: from model to crystal", hint: "section", icon: MoveRightIcon, run: go("demo-3d") },
           { label: "What I can do", hint: "section", icon: MoveRightIcon, run: go("co-robie") },
           { label: "Data: comparison", hint: "section", icon: MoveRightIcon, run: go("dane") },
           { label: "Burrow", hint: "project", icon: MoveRightIcon, run: go("burrow") },
@@ -35,7 +35,7 @@ function groups(lang: Lang): [string, Cmd[]][] {
         [
           { label: "Shape: knot", hint: "shape", icon: BoxIcon, run: () => emit("crystal:form", "knot") },
           { label: "Shape: text", hint: "shape", icon: BoxIcon, run: () => emit("crystal:form", "text") },
-          { label: "Show it set in a solid", hint: "stage", icon: BoxIcon, run: () => emit("crystal:stage", 2) },
+          { label: "Show it inside a crystal", hint: "stage", icon: BoxIcon, run: () => emit("crystal:stage", 2) },
         ],
       ],
       [
@@ -127,7 +127,7 @@ const COPY = {
     title: "Search this site",
     description: "Where to go or what to do",
     placeholder: "Where to go or what to do?",
-    empty: "Nothing matches. Try “data”, “solid” or “email”.",
+    empty: "Nothing matches. Try “data”, “crystal” or “email”.",
     keys: ["select", "open", "close"],
   },
 }

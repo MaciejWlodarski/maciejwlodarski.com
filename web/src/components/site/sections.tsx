@@ -90,12 +90,12 @@ const COPY = {
     stTitle: "From a photo to a finished product",
     stBy: "STUDIO 3D and Lumina",
     stBody:
-      "A personalised-product shop for STUDIO 3D: the customer uploads a photo, sees a 3D preview of their product right away, and the order lands in the shop system with nothing retyped. Underneath runs Lumina, which turns a photo or model into points, arranges them inside a solid and prepares the production file.",
+      "A personalised-product shop for STUDIO 3D: the customer uploads a photo, sees a 3D preview of their product right away, and the order lands in the shop system with nothing retyped. Underneath runs Lumina, which turns a photo or model into points, arranges them inside a crystal and prepares the production file.",
     chainLabel: "From photo to order",
     chain: [
       ["Photo or model", "Lumina"],
       ["Point cloud", "Lumina"],
-      ["Arranged in a solid", "Lumina"],
+      ["Arranged in a crystal", "Lumina"],
       ["3D preview in the shop", "STUDIO 3D"],
       ["Order in the shop system", "shop"],
     ],

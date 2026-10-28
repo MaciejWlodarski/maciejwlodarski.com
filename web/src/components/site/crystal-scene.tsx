@@ -35,22 +35,22 @@ const COPY = {
     steps: [
       { title: "Model.", body: "A shape from a 3D model or from text." },
       { title: "Point cloud.", body: "The surface breaks up into thousands of points." },
-      { title: "Set in a solid.", body: "The points fit inside a solid, with a margin from its walls." },
+      { title: "Inside the crystal.", body: "The points fit inside a glass block, with room around the edges." },
     ],
-    stageName: ["3D model", "point cloud", "set in a solid"],
+    stageName: ["3D model", "point cloud", "inside the crystal"],
     forms: { knot: "Knot", text: "Text" } as Record<Form, string>,
     textName: (w: string) => `Text “${w}”`,
     canvas: (name: string, stage: string, count: string, points: string) =>
       `${name}: ${stage}, ${count} ${points}. Drag or use the arrow keys to rotate. Home resets the view.`,
     needText: "Type some text and the points will form the letters.",
-    eyebrow: "From model to solid",
+    eyebrow: "From model to crystal",
     dock: "3D preview controls",
     stage: "Stage",
-    stages: ["Model", "Points", "Solid"],
+    stages: ["Model", "Points", "Crystal"],
     form: "Shape",
     text: "Text",
     note1: "This illustrates an idea I’m working on in Lumina; it isn’t a screen from the app. Drag the object to rotate it.",
-    note2: " is my desktop and CLI app. It turns photos and models into point clouds, lets you arrange a scene inside a solid and exports a file for the engraver. The code is private.",
+    note2: " is my desktop and CLI app. It turns photos and models into point clouds, lets you arrange a scene inside a crystal and exports a file for the engraver. The code is private.",
   },
 }
 // scroll positions that show each stage at rest

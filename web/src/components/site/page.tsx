@@ -14,13 +14,13 @@ export const SITE = "https://maciejwlodarski.com"
 export const META: Record<Lang, { title: string; description: string; locale: string; imageAlt: string }> = {
   pl: {
     title: "Maciej Włodarski: aplikacje i narzędzia",
-    description: "Maciej Włodarski. Aplikacje web, desktop i CLI, integracje, automatyzacje z AI, dane i 3D.",
+    description: "Aplikacje, narzędzia i integracje. Tworzę rozwiązania webowe i desktopowe, automatyzacje z AI oraz interaktywne wizualizacje danych.",
     locale: "pl_PL",
     imageAlt: "Maciej Włodarski: zamieniam pomysły w aplikacje, narzędzia, integracje i automatyzacje.",
   },
   en: {
     title: "Maciej Włodarski: apps and tools",
-    description: "Maciej Włodarski. Web, desktop and CLI apps, integrations, AI automation, data and 3D.",
+    description: "Apps, tools and integrations. I build web and desktop software, AI-powered automations and interactive data visualisations.",
     locale: "en_US",
     imageAlt: "Maciej Włodarski: I turn ideas into apps, tools, integrations and automations.",
   },
