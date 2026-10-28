@@ -1,6 +1,7 @@
 # Spotify feed API
 
-A small Node.js service for the music section of [maciejwlodarski.com](https://maciejwlodarski.com).
+A small Node.js service for the music section of [maciejwlodarski.com](https://maciejwlodarski.com)
+(the site itself lives in [`../web`](../web)).
 It reads the owner's currently playing track, recent plays, and top artists and
 tracks from Spotify, then exposes a read-only JSON feed. Recent plays are saved
 in SQLite so the site can show listening history over time.

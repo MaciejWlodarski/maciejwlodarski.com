@@ -5,9 +5,8 @@ and shadcn/ui components based on Base UI. Available in Polish (`/`) and English
 (`/en`), it combines project stories with an interactive point-cloud demo, a
 data explorer, and a command palette.
 
-The data in the explorer is fictional. Images selected in the point-cloud demo
-are processed locally in the browser. The optional music section uses the
-separate [Spotify feed API](https://github.com/MaciejWlodarski/maciejwlodarski-spotify-api).
+The data in the explorer is fictional. The optional music section reads its data
+from the Spotify feed service in [`../spotify-api`](../spotify-api).
 
 Use Node.js 24 or newer and npm:
 

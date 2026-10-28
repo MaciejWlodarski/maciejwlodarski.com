@@ -5,7 +5,7 @@ import { cn } from "cn"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useCopy, useLang, type Lang } from "@/lib/i18n"
 
-// site-api (../site-api): polls Spotify server-side and serves one cached JSON feed
+// spotify-api (repo root): polls Spotify server-side and serves one cached JSON feed
 const FEED_URL =
   import.meta.env.VITE_MUSIC_FEED ?? (import.meta.env.DEV ? "http://127.0.0.1:8810/spotify/feed" : "https://api.maciejwlodarski.com/spotify/feed")
 const POLL_MS = 30_000
