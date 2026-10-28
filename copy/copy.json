@@ -1,0 +1,3575 @@
+[
+  {
+    "file": "src/routes/__root.tsx",
+    "line": 6,
+    "key": "meta.title",
+    "original": "Maciej Włodarski: aplikacje i narzędzia",
+    "pl": "Maciej Włodarski: aplikacje i narzędzia",
+    "en": "Maciej Włodarski: apps and tools",
+    "note": ""
+  },
+  {
+    "file": "src/routes/__root.tsx",
+    "line": 8,
+    "key": "meta.description",
+    "original": "Maciej Włodarski. Aplikacje web, desktop i CLI, integracje, automatyzacje z AI, dane i 3D.",
+    "pl": "Maciej Włodarski. Aplikacje web, desktop i CLI, integracje, automatyzacje z AI, dane i 3D.",
+    "en": "Maciej Włodarski. Web, desktop and CLI apps, integrations, AI automation, data and 3D.",
+    "note": ""
+  },
+  {
+    "file": "src/routes/__root.tsx",
+    "line": 40,
+    "key": "404.title",
+    "original": "Nie ma takiej strony.",
+    "pl": "Nie ma takiej strony.",
+    "en": "Page not found.",
+    "note": ""
+  },
+  {
+    "file": "src/routes/__root.tsx",
+    "line": 43,
+    "key": "404.home",
+    "original": "Wróć na stronę główną",
+    "pl": "Wróć na stronę główną",
+    "en": "Back to home",
+    "note": ""
+  },
+  {
+    "file": "src/routes/index.tsx",
+    "line": 23,
+    "key": "navigation.skip",
+    "original": "Przejdź do treści",
+    "pl": "Przejdź do treści",
+    "en": "Skip to content",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 10,
+    "key": "hero.word.1",
+    "original": "aplikacje.",
+    "pl": "aplikacje.",
+    "en": "apps.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 10,
+    "key": "hero.word.2",
+    "original": "narzędzia.",
+    "pl": "narzędzia.",
+    "en": "tools.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 10,
+    "key": "hero.word.3",
+    "original": "integracje.",
+    "pl": "integracje.",
+    "en": "integrations.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 10,
+    "key": "hero.word.4",
+    "original": "automatyzacje.",
+    "pl": "automatyzacje.",
+    "en": "automations.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 45,
+    "key": "hero.accessible",
+    "original": "Zamieniam pomysły w aplikacje, narzędzia, integracje i automatyzacje.",
+    "pl": "Zamieniam pomysły w aplikacje, narzędzia, integracje i automatyzacje.",
+    "en": "I turn ideas into apps, tools, integrations and automations.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 49,
+    "key": "hero.heading",
+    "original": "Zamieniam pomysły w",
+    "pl": "Zamieniam pomysły w",
+    "en": "I turn ideas into",
+    "note": "Początek nagłówka łączy się z rotującymi słowami; sprawdzić szerokość wersji EN."
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 61,
+    "key": "hero.lead",
+    "original": "Jestem Maciej Włodarski. Piszę aplikacje web, desktop i CLI, łączę systemy i zdejmuję z ludzi powtarzalną robotę, także z pomocą AI. Mała poprawka czy całe narzędzie.",
+    "pl": "Jestem Maciej Włodarski. Piszę aplikacje web, desktop i CLI, łączę systemy i automatyzuję powtarzalną pracę, także z pomocą AI. Od małej poprawki po całe narzędzie.",
+    "en": "I’m Maciej Włodarski. I build web, desktop and CLI apps, connect systems and automate repetitive work, including with AI. From a small fix to a complete tool.",
+    "note": "Spokojniejszy język i pełniejsza puenta."
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 66,
+    "key": "hero.emailSubject",
+    "original": "Zlecenie",
+    "pl": "Zlecenie",
+    "en": "Project inquiry",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 67,
+    "key": "hero.contact",
+    "original": "Napisz do mnie",
+    "pl": "Napisz do mnie",
+    "en": "Get in touch",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/hero.tsx",
+    "line": 73,
+    "key": "hero.demo",
+    "original": "Zobacz demo",
+    "pl": "Zobacz demo",
+    "en": "See the demo",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 23,
+    "key": "services.1.title",
+    "original": "Aplikacje web",
+    "pl": "Aplikacje web",
+    "en": "Web apps",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 23,
+    "key": "services.1.body",
+    "original": "Panele, sklepy i narzędzia w przeglądarce, razem z serwerem.",
+    "pl": "Panele, sklepy i narzędzia w przeglądarce, razem z serwerem.",
+    "en": "Dashboards, shops and browser tools, with the server behind them.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 23,
+    "key": "services.examples.23",
+    "original": "STUDIO 3D, Gwar",
+    "pl": "STUDIO 3D, Gwar",
+    "en": "STUDIO 3D, Gwar",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 24,
+    "key": "services.2.title",
+    "original": "Desktop i CLI",
+    "pl": "Desktop i CLI",
+    "en": "Desktop and CLI",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 24,
+    "key": "services.2.body",
+    "original": "Natywnie na macOS albo na kilka systemów. Do tego narzędzia wiersza poleceń.",
+    "pl": "Natywnie na macOS albo na kilka systemów. Do tego narzędzia wiersza poleceń.",
+    "en": "Native macOS or cross-platform apps, plus command-line tools.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 24,
+    "key": "services.examples.24",
+    "original": "Burrow, Lumina, mcpm",
+    "pl": "Burrow, Lumina, mcpm",
+    "en": "Burrow, Lumina, mcpm",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 25,
+    "key": "services.3.title",
+    "original": "Integracje",
+    "pl": "Integracje",
+    "en": "Integrations",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 25,
+    "key": "services.3.body",
+    "original": "Sklep, magazyn, API i arkusze połączone tak, żeby nikt nie przepisywał danych.",
+    "pl": "Sklep, magazyn, API i arkusze połączone tak, żeby nikt nie przepisywał danych.",
+    "en": "Shops, inventory, APIs and spreadsheets connected so no one has to re-enter data.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 25,
+    "key": "services.examples.25",
+    "original": "STUDIO 3D",
+    "pl": "STUDIO 3D",
+    "en": "STUDIO 3D",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 26,
+    "key": "services.4.title",
+    "original": "AI i automatyzacje",
+    "pl": "AI i automatyzacje",
+    "en": "AI and automation",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 26,
+    "key": "services.4.body",
+    "original": "Powtarzalna praca na plikach, opisach i zestawieniach. Z modelami AI tam, gdzie mają sens.",
+    "pl": "Powtarzalna praca na plikach, opisach i zestawieniach. Z modelami AI tam, gdzie mają sens.",
+    "en": "Automating repetitive work with files, descriptions and reports. AI models where they make sense.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 27,
+    "key": "services.5.title",
+    "original": "Dane",
+    "pl": "Dane",
+    "en": "Data",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 27,
+    "key": "services.5.body",
+    "original": "Zbieram, czyszczę i pokazuję tak, żeby dało się szybko porównać.",
+    "pl": "Zbieram, czyszczę i pokazuję dane tak, żeby dało się je szybko porównać.",
+    "en": "I collect, clean and present data so it’s easy to compare.",
+    "note": "Doprecyzowany dopełniacz."
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 28,
+    "key": "services.6.title",
+    "original": "3D",
+    "pl": "3D",
+    "en": "3D",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 28,
+    "key": "services.6.body",
+    "original": "Podgląd w przeglądarce, chmury punktów, pliki gotowe do produkcji.",
+    "pl": "Podgląd w przeglądarce, chmury punktów, pliki gotowe do produkcji.",
+    "en": "Browser previews, point clouds and production-ready files.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 28,
+    "key": "services.examples.28",
+    "original": "Lumina, STUDIO 3D",
+    "pl": "Lumina, STUDIO 3D",
+    "en": "Lumina, STUDIO 3D",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 35,
+    "key": "services.title",
+    "original": "Co mogę zrobić",
+    "pl": "Co mogę zrobić",
+    "en": "What I can do",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 36,
+    "key": "services.intro",
+    "original": "Zaczynam od jednej rzeczy, która ma działać. Interfejs, serwer, integracja albo skrypt, czyli to, czego akurat brakuje.",
+    "pl": "Zaczynam od jednej rzeczy, która ma działać: interfejsu, serwera, integracji albo skryptu, czyli tego, czego akurat brakuje.",
+    "en": "I start with one thing that needs to work: an interface, server, integration or script, whatever is missing.",
+    "note": "Uporządkowana składnia."
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 44,
+    "key": "services.examples",
+    "original": "Przykłady: {examples}.",
+    "pl": "Przykłady: {examples}.",
+    "en": "Examples: {examples}.",
+    "note": "Szablon z listą nazw projektów."
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 52,
+    "key": "services.scope",
+    "original": "Może to być jedna poprawka, całe narzędzie albo dłuższa współpraca.",
+    "pl": "Może to być jedna poprawka, całe narzędzie albo dłuższa współpraca.",
+    "en": "That might be one fix, a complete tool or an ongoing collaboration.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 57,
+    "key": "services.cta",
+    "original": "Opisz, czego potrzebujesz",
+    "pl": "Opisz, czego potrzebujesz",
+    "en": "Tell me what you need",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 67,
+    "key": "projects.chain.67.36",
+    "original": "Zdjęcie lub model",
+    "pl": "Zdjęcie lub model",
+    "en": "Photo or model",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 67,
+    "key": "projects.chain.owner.67",
+    "original": "Lumina",
+    "pl": "Lumina",
+    "en": "Lumina",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 68,
+    "key": "projects.chain.68.37",
+    "original": "Chmura punktów",
+    "pl": "Chmura punktów",
+    "en": "Point cloud",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 68,
+    "key": "projects.chain.owner.68",
+    "original": "Lumina",
+    "pl": "Lumina",
+    "en": "Lumina",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 69,
+    "key": "projects.chain.69.38",
+    "original": "Układ w bryle",
+    "pl": "Układ w bryle",
+    "en": "Layout in a solid",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 69,
+    "key": "projects.chain.owner.69",
+    "original": "Lumina",
+    "pl": "Lumina",
+    "en": "Lumina",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 70,
+    "key": "projects.chain.70.39",
+    "original": "Podgląd 3D w sklepie",
+    "pl": "Podgląd 3D w sklepie",
+    "en": "3D preview in the shop",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 70,
+    "key": "projects.chain.owner.70",
+    "original": "STUDIO 3D",
+    "pl": "STUDIO 3D",
+    "en": "STUDIO 3D",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 71,
+    "key": "projects.chain.71.40",
+    "original": "Zamówienie w systemie sklepu",
+    "pl": "Zamówienie w systemie sklepu",
+    "en": "Order in the shop system",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 71,
+    "key": "projects.chain.71.41",
+    "original": "sklep",
+    "pl": "sklep",
+    "en": "shop",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 98,
+    "key": "gwar.diagram",
+    "original": "Schemat: twój serwer w Rust połączony z przeglądarką, aplikacją desktop i klientem TeamSpeak.",
+    "pl": "Schemat: twój serwer w Rust połączony z przeglądarką, aplikacją desktop i klientem TeamSpeak.",
+    "en": "Diagram: your Rust server connected to a browser, desktop app and TeamSpeak client.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 117,
+    "key": "sections.text.117",
+    "original": "Przeglądarka",
+    "pl": "Przeglądarka",
+    "en": "Browser",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 120,
+    "key": "sections.text.120",
+    "original": "Desktop",
+    "pl": "Desktop",
+    "en": "Desktop",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 123,
+    "key": "sections.text.123",
+    "original": "Klient TeamSpeak",
+    "pl": "Klient TeamSpeak",
+    "en": "TeamSpeak client",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 127,
+    "key": "sections.text.127",
+    "original": "Twój",
+    "pl": "Twój",
+    "en": "Your",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 130,
+    "key": "sections.text.130",
+    "original": "serwer",
+    "pl": "serwer",
+    "en": "server",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 143,
+    "key": "sections.text.143",
+    "original": "Więcej projektów",
+    "pl": "Więcej projektów",
+    "en": "More projects",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 144,
+    "key": "sections.text.144",
+    "original": "Własne aplikacje i praca dla STUDIO 3D. Część kodu jest publiczna na GitHubie.",
+    "pl": "Własne aplikacje i praca dla STUDIO 3D. Część kodu jest publiczna na GitHubie.",
+    "en": "My own apps and work for STUDIO 3D. Some of the code is public on GitHub.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 149,
+    "key": "sections.text.149",
+    "original": "Od zdjęcia do gotowego produktu",
+    "pl": "Od zdjęcia do gotowego produktu",
+    "en": "From photo to finished product",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 151,
+    "key": "sections.text.151",
+    "original": "STUDIO 3D i Lumina",
+    "pl": "STUDIO 3D i Lumina",
+    "en": "STUDIO 3D and Lumina",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 153,
+    "key": "projects.studio.description",
+    "original": "Sklep z personalizacją dla STUDIO 3D: klient wgrywa zdjęcie, od razu widzi podgląd 3D swojego produktu, a zamówienie trafia do systemu sklepu bez przepisywania. Pod spodem pracuje Lumina, która zamienia zdjęcie albo model w punkty, układa je w bryle i przygotowuje plik do produkcji.",
+    "pl": "Sklep z personalizacją dla STUDIO 3D: klient wgrywa zdjęcie, od razu widzi podgląd 3D swojego produktu, a zamówienie trafia do systemu sklepu bez przepisywania. Pod spodem pracuje Lumina, która zamienia zdjęcie albo model w punkty, układa je w bryle i przygotowuje plik do produkcji.",
+    "en": "A customization shop for STUDIO 3D: the customer uploads a photo, sees a 3D preview immediately, and the order reaches the shop system without manual re-entry. Behind it, Lumina turns a photo or model into points, arranges them in a solid and prepares a production file.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 156,
+    "key": "sections.text.156",
+    "original": "Droga od zdjęcia do zamówienia",
+    "pl": "Droga od zdjęcia do zamówienia",
+    "en": "From photo to order",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 167,
+    "key": "sections.text.167",
+    "original": "Zobacz zasadę w demo 3D",
+    "pl": "Zobacz zasadę w demo 3D",
+    "en": "See how it works in the 3D demo",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 174,
+    "key": "sections.text.174",
+    "original": "Gwar",
+    "pl": "Gwar",
+    "en": "Gwar",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 176,
+    "key": "sections.text.176",
+    "original": "Komunikator głosowy na własny serwer. Rust, web, desktop.",
+    "pl": "Komunikator głosowy na własny serwer. Rust, web, desktop.",
+    "en": "Voice chat for your own server. Rust, web, desktop.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 179,
+    "key": "sections.text.179",
+    "original": "„Zacząłem go, bo TeamSpeak rozwijał się dla mnie za wolno, a Discord nie pozwala postawić własnego serwera.”",
+    "pl": "„Zacząłem go, bo TeamSpeak rozwijał się dla mnie za wolno, a Discord nie pozwala postawić własnego serwera.”",
+    "en": "“I started it because TeamSpeak was moving too slowly for me, and Discord doesn’t let you run your own server.”",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 181,
+    "key": "sections.text.181",
+    "original": "Rozwijam zgodność z klientami TeamSpeaka, żeby nie trzeba było od razu zmieniać programu.",
+    "pl": "Rozwijam zgodność z klientami TeamSpeaka, żeby nie trzeba było od razu zmieniać programu.",
+    "en": "I’m developing compatibility with TeamSpeak clients, so people don’t have to switch apps right away.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 184,
+    "key": "sections.text.184",
+    "original": "Kod na GitHubie",
+    "pl": "Kod na GitHubie",
+    "en": "Code on GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 196,
+    "key": "sections.text.196",
+    "original": "mcpm",
+    "pl": "mcpm",
+    "en": "mcpm",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 198,
+    "key": "sections.text.198",
+    "original": "Menedżer modów i launcher do Minecrafta. TypeScript, CLI.",
+    "pl": "Menedżer modów i launcher do Minecrafta. TypeScript, CLI.",
+    "en": "A mod manager and launcher for Minecraft. TypeScript, CLI.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 200,
+    "key": "projects.mcpm.description",
+    "original": "Instaluje mody z Modrinth razem z zależnościami, trzyma każdy profil osobno, z własnymi zapisami i ustawieniami, a potem uruchamia grę bez oficjalnego launchera. Logowanie kontem Microsoft, z tokenem chronionym przez system: Keychain na macOS, DPAPI na Windows.",
+    "pl": "Instaluje mody z Modrinth razem z zależnościami, trzyma każdy profil osobno, z własnymi zapisami i ustawieniami, a potem uruchamia grę bez oficjalnego launchera. Logowanie kontem Microsoft, z tokenem chronionym przez system: Keychain na macOS, DPAPI na Windows.",
+    "en": "It installs mods from Modrinth with their dependencies, keeps each profile separate with its own saves and settings, and launches the game without the official launcher. Sign in with a Microsoft account; the system protects the token using Keychain on macOS and DPAPI on Windows.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 205,
+    "key": "sections.text.205",
+    "original": "Kod na GitHubie",
+    "pl": "Kod na GitHubie",
+    "en": "Code on GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 225,
+    "key": "sections.text.225",
+    "original": "Miejsce na zdjęcie Macieja",
+    "pl": "Miejsce na zdjęcie Macieja",
+    "en": "Placeholder for Maciej’s photo",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 228,
+    "key": "sections.text.228",
+    "original": "MW",
+    "pl": "MW",
+    "en": "MW",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 233,
+    "key": "sections.text.233",
+    "original": "Maciej Włodarski",
+    "pl": "Maciej Włodarski",
+    "en": "Maciej Włodarski",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 237,
+    "key": "about.first",
+    "original": "Najbardziej lubię miejsca, w których jeden system musi dogadać się z drugim: sklep z magazynem, model 3D z plikiem do produkcji, człowiek z arkuszem, który od lat wypełnia ręcznie. Tam zwykle ginie najwięcej czasu.",
+    "pl": "Najbardziej lubię miejsca, w których jeden system musi dogadać się z drugim: sklep z magazynem, model 3D z plikiem do produkcji, człowiek z arkuszem, który od lat wypełnia ręcznie. Tam zwykle ginie najwięcej czasu.",
+    "en": "I’m most interested in the places where things need to work together: a shop and its inventory, a 3D model and a production file, a person and a spreadsheet they’ve filled in by hand for years. That’s often where the most time is lost.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/sections.tsx",
+    "line": 241,
+    "key": "about.second",
+    "original": "Piszę natywnie na macOS, w przeglądarce i w Rust na serwerze, bo technologię dobieram do problemu. Po godzinach analizuję mecze esportowe: najpierw trzeba zrozumieć dane, dopiero potem da się je komuś pokazać. Z projektami jest tak samo, a na końcu ma zostać coś, co działa beze mnie.",
+    "pl": "Piszę aplikacje natywne na macOS i do przeglądarki oraz serwery w Rust, bo technologię dobieram do problemu. Po godzinach analizuję mecze esportowe: najpierw trzeba zrozumieć dane, dopiero potem da się je komuś pokazać. Z projektami jest tak samo, a na końcu ma zostać coś, co działa beze mnie.",
+    "en": "I build native macOS apps, browser apps and servers in Rust, choosing the technology to suit the problem. In my spare time I analyze esports matches: first you have to understand the data, then you can show it to someone else. Projects work the same way, and the result should keep working without me.",
+    "note": "Precyzyjniejsza składnia pierwszego zdania; zachowany sens i ton."
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 14,
+    "key": "contact.topic.1",
+    "original": "Mała poprawka",
+    "pl": "Mała poprawka",
+    "en": "Small fix",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 14,
+    "key": "contact.topic.2",
+    "original": "Nowe narzędzie",
+    "pl": "Nowe narzędzie",
+    "en": "New tool",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 14,
+    "key": "contact.topic.3",
+    "original": "Aplikacja",
+    "pl": "Aplikacja",
+    "en": "App",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 14,
+    "key": "contact.topic.4",
+    "original": "Integracja",
+    "pl": "Integracja",
+    "en": "Integration",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 14,
+    "key": "contact.topic.5",
+    "original": "Automatyzacja",
+    "pl": "Automatyzacja",
+    "en": "Automation",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 14,
+    "key": "contact.topic.6",
+    "original": "Coś innego",
+    "pl": "Coś innego",
+    "en": "Something else",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 33,
+    "key": "contact.text.33.79",
+    "original": "Skopiowano adres",
+    "pl": "Skopiowano adres",
+    "en": "Address copied",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 33,
+    "key": "contact.text.33.80",
+    "original": "Nie udało się skopiować, zaznacz adres ręcznie",
+    "pl": "Nie udało się skopiować. Zaznacz adres ręcznie.",
+    "en": "Couldn’t copy. Select the address manually.",
+    "note": "Rozdzielono dwa zdania."
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 47,
+    "key": "contact.text.47.81",
+    "original": "Napisz, co chcesz zrobić.",
+    "pl": "Napisz, co chcesz zrobić.",
+    "en": "Tell me what you want to build.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 50,
+    "key": "contact.text.50.82",
+    "original": "Wystarczy kilka zdań. Odpiszę z pytaniami albo od razu z propozycją.",
+    "pl": "Wystarczy kilka zdań. Odpiszę z pytaniami albo od razu z propozycją.",
+    "en": "A few sentences are enough. I’ll reply with questions or a proposal.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 58,
+    "key": "contact.text.58.83",
+    "original": "O czym chcesz napisać?",
+    "pl": "O czym chcesz napisać?",
+    "en": "What is this about?",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 83,
+    "key": "contact.text.83.84",
+    "original": "Napisz e-mail",
+    "pl": "Napisz e-mail",
+    "en": "Send an email",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 92,
+    "key": "contact.text.92.85",
+    "original": "Kopiuj adres e-mail",
+    "pl": "Kopiuj adres e-mail",
+    "en": "Copy email address",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 93,
+    "key": "contact.text.93.86",
+    "original": "Kopiuj adres",
+    "pl": "Kopiuj adres",
+    "en": "Copy address",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 111,
+    "key": "contact.text.111.87",
+    "original": "Maciej Włodarski",
+    "pl": "Maciej Włodarski",
+    "en": "Maciej Włodarski",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 114,
+    "key": "contact.text.114.88",
+    "original": "© 2026 Maciej Włodarski",
+    "pl": "© 2026 Maciej Włodarski",
+    "en": "© 2026 Maciej Włodarski",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/contact.tsx",
+    "line": 115,
+    "key": "contact.text.115.89",
+    "original": "Szybkie przejście: {mod}",
+    "pl": "Szybkie przejście: {mod}",
+    "en": "Quick navigation: {mod}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 11,
+    "key": "header.text.11",
+    "original": "Demo 3D",
+    "pl": "Demo 3D",
+    "en": "3D demo",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 12,
+    "key": "header.text.12",
+    "original": "Dane",
+    "pl": "Dane",
+    "en": "Data",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 13,
+    "key": "header.text.13",
+    "original": "Projekty",
+    "pl": "Projekty",
+    "en": "Projects",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 14,
+    "key": "header.text.14",
+    "original": "O mnie",
+    "pl": "O mnie",
+    "en": "About",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 50,
+    "key": "header.text.50",
+    "original": "Maciej Włodarski",
+    "pl": "Maciej Włodarski",
+    "en": "Maciej Włodarski",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 52,
+    "key": "header.text.52",
+    "original": "Główna",
+    "pl": "Główna",
+    "en": "Main navigation",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 61,
+    "key": "header.text.61",
+    "original": "Szukaj na stronie ({shortcut})",
+    "pl": "Szukaj na stronie ({shortcut})",
+    "en": "Search this site ({shortcut})",
+    "note": "Skrót to Command K albo Ctrl K."
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 66,
+    "key": "header.text.66",
+    "original": "Szukaj",
+    "pl": "Szukaj",
+    "en": "Search",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/site-header.tsx",
+    "line": 70,
+    "key": "header.text.70",
+    "original": "Napisz",
+    "pl": "Napisz",
+    "en": "Get in touch",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 12,
+    "key": "demo.text.12.99",
+    "original": "Model.",
+    "pl": "Model.",
+    "en": "Model.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 12,
+    "key": "demo.text.12.100",
+    "original": "Kształt z modelu 3D albo z napisu.",
+    "pl": "Kształt z modelu 3D albo z napisu.",
+    "en": "A shape from a 3D model or text.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 13,
+    "key": "demo.text.13.101",
+    "original": "Chmura punktów.",
+    "pl": "Chmura punktów.",
+    "en": "Point cloud.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 13,
+    "key": "demo.text.13.102",
+    "original": "Powierzchnia rozpada się na tysiące punktów.",
+    "pl": "Powierzchnia rozpada się na tysiące punktów.",
+    "en": "The surface breaks into thousands of points.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 14,
+    "key": "demo.text.14.103",
+    "original": "Ułożone w bryle.",
+    "pl": "Ułożone w bryle.",
+    "en": "Arranged in a solid.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 14,
+    "key": "demo.text.14.104",
+    "original": "Punkty mieszczą się w bryle, z marginesem od ścianek.",
+    "pl": "Punkty mieszczą się w bryle, z marginesem od ścianek.",
+    "en": "The points fit inside a solid, with clearance from its walls.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 16,
+    "key": "demo.text.16.105",
+    "original": "jako model 3D",
+    "pl": "model 3D",
+    "en": "3D model",
+    "note": "Rzeczownikowa nazwa etapu pasuje do każdej formy w etykiecie podglądu."
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 16,
+    "key": "demo.text.16.106",
+    "original": "rozbity na chmurę punktów",
+    "pl": "chmura punktów",
+    "en": "point cloud",
+    "note": "Rzeczownikowa nazwa etapu pasuje do każdej formy w etykiecie podglądu."
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 16,
+    "key": "demo.text.16.107",
+    "original": "ułożony w bryle",
+    "pl": "układ w bryle",
+    "en": "layout in a solid",
+    "note": "Rzeczownikowa nazwa etapu pasuje do każdej formy w etykiecie podglądu."
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 17,
+    "key": "demo.text.17.108",
+    "original": "Węzeł",
+    "pl": "Węzeł",
+    "en": "Knot",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 17,
+    "key": "demo.text.17.109",
+    "original": "Napis",
+    "pl": "Napis",
+    "en": "Text",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 17,
+    "key": "demo.text.17.110",
+    "original": "Relief terenu",
+    "pl": "Relief terenu",
+    "en": "Terrain relief",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 17,
+    "key": "demo.text.17.111",
+    "original": "Twoje zdjęcie",
+    "pl": "Twoje zdjęcie",
+    "en": "Your photo",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 39,
+    "key": "demo.text.39.112",
+    "original": "Maciej",
+    "pl": "Maciej",
+    "en": "Maciej",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 129,
+    "key": "demo.text.129.113",
+    "original": "Wpisz napis, a punkty ułożą się w litery.",
+    "pl": "Wpisz napis, a punkty ułożą się w litery.",
+    "en": "Enter text and the points will form letters.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 153,
+    "key": "demo.text.153.114",
+    "original": "Wpisz napis, a punkty ułożą się w litery.",
+    "pl": "Wpisz napis, a punkty ułożą się w litery.",
+    "en": "Enter text and the points will form letters.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 158,
+    "key": "demo.text.158.115",
+    "original": "Napis „{text}”",
+    "pl": "Napis „{text}”",
+    "en": "Text “{text}”",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 159,
+    "key": "demo.text.159.116",
+    "original": "{name} {stage}, {count} {points}. Przeciągnij albo użyj strzałek, żeby obrócić. Home przywraca widok.",
+    "pl": "{name}: {stage}, {count} {points}. Przeciągnij albo użyj strzałek, żeby obrócić. Home przywraca widok.",
+    "en": "{name}: {stage}, {count} {points}. Drag or use the arrow keys to rotate. Home resets the view.",
+    "note": "Dwukropek i rzeczownikowe nazwy etapów eliminują problem rodzaju. {points}: reguły w motion.ts."
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 192,
+    "key": "demo.text.192.117",
+    "original": "Od modelu do bryły",
+    "pl": "Od modelu do bryły",
+    "en": "From model to solid",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 225,
+    "key": "demo.text.225.118",
+    "original": "Sterowanie podglądem 3D",
+    "pl": "Sterowanie podglądem 3D",
+    "en": "3D preview controls",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 231,
+    "key": "demo.text.231.119",
+    "original": "Etap",
+    "pl": "Etap",
+    "en": "Stage",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 232,
+    "key": "demo.text.232.120",
+    "original": "Etap",
+    "pl": "Etap",
+    "en": "Stage",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 233,
+    "key": "demo.text.233.121",
+    "original": "Model",
+    "pl": "Model",
+    "en": "Model",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 234,
+    "key": "demo.text.234.122",
+    "original": "Punkty",
+    "pl": "Punkty",
+    "en": "Points",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 235,
+    "key": "demo.text.235.123",
+    "original": "Bryła",
+    "pl": "Bryła",
+    "en": "Solid",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 238,
+    "key": "demo.text.238.124",
+    "original": "Forma",
+    "pl": "Forma",
+    "en": "Shape",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 239,
+    "key": "demo.text.239.125",
+    "original": "Forma",
+    "pl": "Forma",
+    "en": "Shape",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 240,
+    "key": "demo.text.240.126",
+    "original": "Węzeł",
+    "pl": "Węzeł",
+    "en": "Knot",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 241,
+    "key": "demo.text.241.127",
+    "original": "Napis",
+    "pl": "Napis",
+    "en": "Text",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 245,
+    "key": "demo.text.245.128",
+    "original": "Napis",
+    "pl": "Napis",
+    "en": "Text",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 265,
+    "key": "demo.text.265.129",
+    "original": "Ilustracja zasady, nad którą pracuję w Luminie, a nie ekran programu. Przeciągnij obiekt, żeby go obrócić.",
+    "pl": "To ilustracja zasady, nad którą pracuję w Luminie. Nie przedstawia ekranu programu. Przeciągnij obiekt, żeby go obrócić.",
+    "en": "This illustrates a principle I’m working on in Lumina; it isn’t a screen from the app. Drag the object to rotate it.",
+    "note": "Wyraźne rozróżnienie ilustracji i ekranu programu, bez konstrukcji kontrastowej."
+  },
+  {
+    "file": "src/components/site/crystal-scene.tsx",
+    "line": 268,
+    "key": "demo.text.268.130",
+    "original": "Lumina to moja aplikacja desktopowa i CLI. Zamienia zdjęcia i modele w chmury punktów, pozwala ułożyć scenę w bryle i wyeksportować plik do grawera. Kod jest prywatny.",
+    "pl": "Lumina to moja aplikacja desktopowa i CLI. Zamienia zdjęcia i modele w chmury punktów, pozwala ułożyć scenę w bryle i wyeksportować plik do grawera. Kod jest prywatny.",
+    "en": "Lumina is my desktop and CLI app. It turns photos and models into point clouds, lets you arrange a scene in a solid and export a file for an engraver. The code is private.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 323,
+    "key": "data.text.323.131",
+    "original": "Porównanie, które od razu coś mówi",
+    "pl": "Porównanie, które od razu coś mówi",
+    "en": "A comparison that tells you something",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 326,
+    "key": "data.text.326.132",
+    "original": "Dwie osie, zakres i jeden wniosek napisany zwykłym zdaniem. Ten sam układ działa dla sprzedaży, kampanii, obsługi klienta i wszystkiego, co da się policzyć.",
+    "pl": "Dwie osie, zakres i jeden wniosek napisany zwykłym zdaniem. Ten sam układ działa dla sprzedaży, kampanii, obsługi klienta i wszystkiego, co da się policzyć.",
+    "en": "Two axes, a time window and an insight in plain language. The same layout works for sales, campaigns, customer support and anything you can measure.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 338,
+    "key": "data.text.338.133",
+    "original": "Zbiór",
+    "pl": "Zbiór",
+    "en": "Dataset",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 339,
+    "key": "data.text.339.134",
+    "original": "Zbiór",
+    "pl": "Zbiór",
+    "en": "Dataset",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 340,
+    "key": "data.text.340.135",
+    "original": "Sklep",
+    "pl": "Sklep",
+    "en": "Shop",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 341,
+    "key": "data.text.341.136",
+    "original": "Kampanie",
+    "pl": "Kampanie",
+    "en": "Campaigns",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 342,
+    "key": "data.text.342.137",
+    "original": "Obsługa",
+    "pl": "Obsługa",
+    "en": "Support",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 345,
+    "key": "data.text.345.138",
+    "original": "Oś X",
+    "pl": "Oś X",
+    "en": "X axis",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 346,
+    "key": "data.text.346.139",
+    "original": "Oś X",
+    "pl": "Oś X",
+    "en": "X axis",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 348,
+    "key": "data.text.348.140",
+    "original": "Oś Y",
+    "pl": "Oś Y",
+    "en": "Y axis",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 349,
+    "key": "data.text.349.141",
+    "original": "Oś Y",
+    "pl": "Oś Y",
+    "en": "Y axis",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 351,
+    "key": "data.text.351.142",
+    "original": "Średnia z",
+    "pl": "Średnia z",
+    "en": "Average over",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 352,
+    "key": "data.text.352.143",
+    "original": "Średnia z",
+    "pl": "Średnia z",
+    "en": "Average over",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 360,
+    "key": "data.text.360.144",
+    "original": "Porównaj",
+    "pl": "Porównaj",
+    "en": "Compare",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 361,
+    "key": "data.text.361.145",
+    "original": "Porównaj A",
+    "pl": "Porównaj A",
+    "en": "Compare A",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 363,
+    "key": "data.text.363.146",
+    "original": "z",
+    "pl": "z",
+    "en": "with",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 369,
+    "key": "data.text.369.147",
+    "original": "z B",
+    "pl": "z B",
+    "en": "with B",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 381,
+    "key": "data.text.381.148",
+    "original": "Wykres rozrzutu. Strzałki wybierają punkt, Enter dodaje go do porównania jako B, Shift i Enter jako A.",
+    "pl": "Wykres rozrzutu. Strzałki wybierają punkt, Enter dodaje go do porównania jako B, Shift i Enter jako A.",
+    "en": "Scatter plot. Use the arrow keys to select a point, Enter to compare it as B, or Shift+Enter as A.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 403,
+    "key": "data.text.403.149",
+    "original": "Dzień {day}",
+    "pl": "Dzień {day}",
+    "en": "Day {day}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 502,
+    "key": "data.text.502.150",
+    "original": "Wstrzymaj oś czasu",
+    "pl": "Wstrzymaj oś czasu",
+    "en": "Pause timeline",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 502,
+    "key": "data.text.502.151",
+    "original": "Odtwórz oś czasu",
+    "pl": "Odtwórz oś czasu",
+    "en": "Play timeline",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 512,
+    "key": "data.text.512.152",
+    "original": "Dzień",
+    "pl": "Dzień",
+    "en": "Day",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 513,
+    "key": "data.text.513.153",
+    "original": "Dzień {day} z {total}",
+    "pl": "Dzień {day} z {total}",
+    "en": "Day {day} of {total}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 517,
+    "key": "data.text.517.154",
+    "original": "Dzień {day} z {total}",
+    "pl": "Dzień {day} z {total}",
+    "en": "Day {day} of {total}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 530,
+    "key": "data.text.530.155",
+    "original": "{period} · średnia z {range}",
+    "pl": "{period} · średnia z {range}",
+    "en": "{period} · average over {range}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 561,
+    "key": "data.text.561.156",
+    "original": "Dane przykładowe, wymyślone do tego pokazu. Nazwy są fikcyjne. Liczone na żywo w przeglądarce.",
+    "pl": "Dane przykładowe, wymyślone do tego pokazu. Nazwy są fikcyjne. Liczone na żywo w przeglądarce.",
+    "en": "Sample data created for this demo. Names are fictional. Calculated live in the browser.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 563,
+    "key": "data.text.563.157",
+    "original": "Pokaż dane jako tabelę",
+    "pl": "Pokaż dane jako tabelę",
+    "en": "Show data as a table",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/data-lab.tsx",
+    "line": 567,
+    "key": "data.text.567.158",
+    "original": "Średnie z {range} do dnia {day}",
+    "pl": "Średnie z {range} do dnia {day}",
+    "en": "{range} averages through day {day}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 15,
+    "key": "burrow.text.15.159",
+    "original": "Natywne okno",
+    "pl": "Natywne okno",
+    "en": "Native window",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 15,
+    "key": "burrow.text.15.160",
+    "original": "Cztery widoki plików, karty, inspektor i panel komend.",
+    "pl": "Cztery widoki plików, karty, inspektor i panel komend.",
+    "en": "Four file views, tabs, an inspector and a command panel.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 16,
+    "key": "burrow.text.16.161",
+    "original": "Wyszukiwanie",
+    "pl": "Wyszukiwanie",
+    "en": "Search",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 16,
+    "key": "burrow.text.16.162",
+    "original": "Indeksowane wyszukiwanie i filtry nad listą.",
+    "pl": "Indeksowane wyszukiwanie i filtry nad listą.",
+    "en": "Indexed search and filters above the list.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 17,
+    "key": "burrow.text.17.163",
+    "original": "Inteligentne foldery",
+    "pl": "Inteligentne foldery",
+    "en": "Smart folders",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 17,
+    "key": "burrow.text.17.164",
+    "original": "Ostatnie 24 godziny, kod źródłowy, zmiany w Git.",
+    "pl": "Ostatnie 24 godziny, kod źródłowy, zmiany w Git.",
+    "en": "Last 24 hours, source code, Git changes.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 18,
+    "key": "burrow.text.18.165",
+    "original": "Lista plików",
+    "pl": "Lista plików",
+    "en": "File list",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 18,
+    "key": "burrow.text.18.166",
+    "original": "Rozmiary, daty i rodzaje, sortowanie i zaznaczanie wielu pozycji.",
+    "pl": "Rozmiary, daty i rodzaje, sortowanie i zaznaczanie wielu pozycji.",
+    "en": "Sizes, dates and types, sorting and multiple selection.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 54,
+    "key": "burrow.text.54.167",
+    "original": "Burrow",
+    "pl": "Burrow",
+    "en": "Burrow",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 57,
+    "key": "burrow.text.57.168",
+    "original": "Menedżer plików na macOS w SwiftUI i AppKit. Dwa panele obok siebie, wyszukiwanie i metadane w jednym oknie.",
+    "pl": "Menedżer plików na macOS w SwiftUI i AppKit. Dwa panele obok siebie, wyszukiwanie i metadane w jednym oknie.",
+    "en": "A macOS file manager built with SwiftUI and AppKit. Two side-by-side panes, search and metadata in one window.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 85,
+    "key": "burrow.text.85.169",
+    "original": "Kod na GitHubie",
+    "pl": "Kod na GitHubie",
+    "en": "Code on GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 87,
+    "key": "burrow.text.87.170",
+    "original": "Swift, SwiftUI, AppKit",
+    "pl": "Swift, SwiftUI, AppKit",
+    "en": "Swift, SwiftUI, AppKit",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 100,
+    "key": "burrow.text.100.171",
+    "original": "Okno aplikacji Burrow: pasek boczny z inteligentnymi folderami, pole wyszukiwania i lista przykładowych plików z rozmiarem, datą i rodzajem.",
+    "pl": "Okno aplikacji Burrow: pasek boczny z inteligentnymi folderami, pole wyszukiwania i lista przykładowych plików z rozmiarem, datą i rodzajem.",
+    "en": "Burrow window: a sidebar with smart folders, a search field and a list of sample files with their size, date and type.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/burrow-scene.tsx",
+    "line": 113,
+    "key": "burrow.text.113.172",
+    "original": "Widok listy na przykładowych plikach.",
+    "pl": "Widok listy na przykładowych plikach.",
+    "en": "List view with sample files.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 11,
+    "key": "mcpm.text.11.173",
+    "original": "mcpm init ./moj-modpack",
+    "pl": "mcpm init ./moj-modpack",
+    "en": "mcpm init ./moj-modpack",
+    "note": "Polecenie i nazwa katalogu pozostają identyczne."
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 11,
+    "key": "mcpm.text.11.174",
+    "original": "profil moj-modpack: wersja gry i loader Fabric",
+    "pl": "profil moj-modpack: wersja gry i loader Fabric",
+    "en": "moj-modpack profile: game version and Fabric loader",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 12,
+    "key": "mcpm.text.12.175",
+    "original": "mcpm install sodium",
+    "pl": "mcpm install sodium",
+    "en": "mcpm install sodium",
+    "note": "Polecenie i nazwa katalogu pozostają identyczne."
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 12,
+    "key": "mcpm.text.12.176",
+    "original": "Modrinth: sodium razem z zależnościami",
+    "pl": "Modrinth: sodium razem z zależnościami",
+    "en": "Modrinth: sodium with dependencies",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 12,
+    "key": "mcpm.text.12.177",
+    "original": "zapisane w lockfile tego profilu",
+    "pl": "zapisane w lockfile tego profilu",
+    "en": "saved in this profile’s lockfile",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 13,
+    "key": "mcpm.text.13.178",
+    "original": "mcpm launch",
+    "pl": "mcpm launch",
+    "en": "mcpm launch",
+    "note": "Polecenie i nazwa katalogu pozostają identyczne."
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 13,
+    "key": "mcpm.text.13.179",
+    "original": "klient, biblioteki i Java od Mojanga, w cache",
+    "pl": "klient, biblioteki i Java od Mojanga, w cache",
+    "en": "client, libraries and Java from Mojang, cached",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 13,
+    "key": "mcpm.text.13.180",
+    "original": "gra startuje bez oficjalnego launchera",
+    "pl": "gra startuje bez oficjalnego launchera",
+    "en": "game launches without the official launcher",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 54,
+    "key": "mcpm.text.54.181",
+    "original": "Terminal — mcpm",
+    "pl": "Terminal — mcpm",
+    "en": "Terminal — mcpm",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/mcpm-terminal.tsx",
+    "line": 58,
+    "key": "mcpm.text.58.182",
+    "original": "Przykładowa sesja: mcpm init tworzy profil z Fabric, mcpm install sodium dodaje mod z Modrinth z zależnościami, mcpm launch uruchamia grę bez oficjalnego launchera.",
+    "pl": "Przykładowa sesja: mcpm init tworzy profil z Fabric, mcpm install sodium dodaje mod z Modrinth z zależnościami, mcpm launch uruchamia grę bez oficjalnego launchera.",
+    "en": "Example session: mcpm init creates a Fabric profile, mcpm install sodium adds a Modrinth mod with dependencies, and mcpm launch starts the game without the official launcher.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 27,
+    "key": "music.text.27.183",
+    "original": "Teraz",
+    "pl": "Teraz",
+    "en": "Now",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 28,
+    "key": "music.text.28.184",
+    "original": "Ostatnie",
+    "pl": "Ostatnie",
+    "en": "Recent",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 29,
+    "key": "music.text.29.185",
+    "original": "Top",
+    "pl": "Top",
+    "en": "Top",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 30,
+    "key": "music.text.30.186",
+    "original": "Historia",
+    "pl": "Historia",
+    "en": "History",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 61,
+    "key": "music.text.61.187",
+    "original": "przed chwilą",
+    "pl": "przed chwilą",
+    "en": "just now",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 62,
+    "key": "music.text.62.188",
+    "original": "{n} minut temu",
+    "pl": "{n} minut temu",
+    "en": "{n} minutes ago",
+    "note": "Intl.RelativeTimeFormat z numeric: auto: także „wczoraj” / „yesterday”; PL odmienia jednostki, EN singular dla 1, plural dla pozostałych."
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 63,
+    "key": "music.text.63.189",
+    "original": "{n} godzin temu",
+    "pl": "{n} godzin temu",
+    "en": "{n} hours ago",
+    "note": "Intl.RelativeTimeFormat z numeric: auto: także „wczoraj” / „yesterday”; PL odmienia jednostki, EN singular dla 1, plural dla pozostałych."
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 64,
+    "key": "music.text.64.190",
+    "original": "{n} dni temu",
+    "pl": "{n} dni temu",
+    "en": "{n} days ago",
+    "note": "Intl.RelativeTimeFormat z numeric: auto: także „wczoraj” / „yesterday”; PL odmienia jednostki, EN singular dla 1, plural dla pozostałych."
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 149,
+    "key": "music.text.149.191",
+    "original": "Na razie cisza.",
+    "pl": "Na razie cisza.",
+    "en": "Nothing playing yet.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 161,
+    "key": "music.text.161.192",
+    "original": "Leci teraz",
+    "pl": "Leci teraz",
+    "en": "Now playing",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 164,
+    "key": "music.text.164.193",
+    "original": "Ostatnio grane, {ago}",
+    "pl": "Ostatnio grane, {ago}",
+    "en": "Last played {ago}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 189,
+    "key": "music.text.189.194",
+    "original": "Historia dopiero się zbiera.",
+    "pl": "Historia dopiero się zbiera.",
+    "en": "Listening history is still building.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 195,
+    "key": "music.text.195.195",
+    "original": "{hours} h muzyki od {month}",
+    "pl": "{hours} h muzyki od {month}",
+    "en": "{hours} h of music since {month}",
+    "note": "PL wymaga dopełniacza miesiąca po „od”; EN używa zwykłej nazwy miesiąca. Uwzględnić rok, jeśli zakres go przekracza."
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 199,
+    "key": "music.text.199.196",
+    "original": "{hours} h, najczęściej: {artist}",
+    "pl": "{hours} h, najczęściej: {artist}",
+    "en": "{hours} h, most played: {artist}",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 199,
+    "key": "music.text.199.197",
+    "original": "—",
+    "pl": "—",
+    "en": "—",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 201,
+    "key": "music.text.201.198",
+    "original": "{hours} h",
+    "pl": "{hours} h",
+    "en": "{hours} h",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 233,
+    "key": "music.text.233.199",
+    "original": "Czego słucham",
+    "pl": "Czego słucham",
+    "en": "What I’m listening to",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 237,
+    "key": "music.text.237.200",
+    "original": "dane ze Spotify",
+    "pl": "dane ze Spotify",
+    "en": "data from Spotify",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 252,
+    "key": "music.text.252.201",
+    "original": "Spotify chwilowo niedostępne.",
+    "pl": "Spotify chwilowo niedostępne.",
+    "en": "Spotify is temporarily unavailable.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 252,
+    "key": "music.text.252.202",
+    "original": "Ładuję…",
+    "pl": "Ładuję…",
+    "en": "Loading…",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/music-card.tsx",
+    "line": 266,
+    "key": "music.text.266.203",
+    "original": "Najczęściej z ostatnich 4 tygodni",
+    "pl": "Najczęściej z ostatnich 4 tygodni",
+    "en": "Most played in the last 4 weeks",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 17,
+    "key": "palette.text.17.204",
+    "original": "Przejdź",
+    "pl": "Przejdź",
+    "en": "Go to",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 19,
+    "key": "palette.text.19.205",
+    "original": "Demo 3D: od modelu do bryły",
+    "pl": "Demo 3D: od modelu do bryły",
+    "en": "3D demo: from model to solid",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 19,
+    "key": "palette.hint.19",
+    "original": "sekcja",
+    "pl": "sekcja",
+    "en": "section",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 20,
+    "key": "palette.text.20.206",
+    "original": "Co mogę zrobić",
+    "pl": "Co mogę zrobić",
+    "en": "What I can do",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 20,
+    "key": "palette.hint.20",
+    "original": "sekcja",
+    "pl": "sekcja",
+    "en": "section",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 21,
+    "key": "palette.text.21.207",
+    "original": "Dane: porównanie",
+    "pl": "Dane: porównanie",
+    "en": "Data: comparison",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 21,
+    "key": "palette.hint.21",
+    "original": "sekcja",
+    "pl": "sekcja",
+    "en": "section",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 22,
+    "key": "palette.text.22.208",
+    "original": "Burrow",
+    "pl": "Burrow",
+    "en": "Burrow",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 22,
+    "key": "palette.hint.22",
+    "original": "projekt",
+    "pl": "projekt",
+    "en": "project",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 23,
+    "key": "palette.text.23.209",
+    "original": "Więcej projektów: STUDIO 3D, Lumina, Gwar, mcpm",
+    "pl": "Więcej projektów: STUDIO 3D, Lumina, Gwar, mcpm",
+    "en": "More projects: STUDIO 3D, Lumina, Gwar, mcpm",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 23,
+    "key": "palette.hint.23",
+    "original": "sekcja",
+    "pl": "sekcja",
+    "en": "section",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 24,
+    "key": "palette.text.24.210",
+    "original": "O mnie i muzyka",
+    "pl": "O mnie i muzyka",
+    "en": "About and music",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 24,
+    "key": "palette.hint.24",
+    "original": "sekcja",
+    "pl": "sekcja",
+    "en": "section",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 25,
+    "key": "palette.text.25.211",
+    "original": "Kontakt",
+    "pl": "Kontakt",
+    "en": "Contact",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 25,
+    "key": "palette.hint.25",
+    "original": "sekcja",
+    "pl": "sekcja",
+    "en": "section",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 29,
+    "key": "palette.text.29.212",
+    "original": "Demo 3D",
+    "pl": "Demo 3D",
+    "en": "3D demo",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 31,
+    "key": "palette.text.31.213",
+    "original": "Forma: węzeł",
+    "pl": "Forma: węzeł",
+    "en": "Shape: knot",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 31,
+    "key": "palette.hint.31",
+    "original": "kształt",
+    "pl": "kształt",
+    "en": "shape",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 32,
+    "key": "palette.text.32.214",
+    "original": "Forma: napis",
+    "pl": "Forma: napis",
+    "en": "Shape: text",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 32,
+    "key": "palette.hint.32",
+    "original": "kształt",
+    "pl": "kształt",
+    "en": "shape",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 33,
+    "key": "palette.text.33.215",
+    "original": "Pokaż ułożone w bryle",
+    "pl": "Pokaż ułożone w bryle",
+    "en": "Show arranged in a solid",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 33,
+    "key": "palette.hint.33",
+    "original": "etap",
+    "pl": "etap",
+    "en": "stage",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 37,
+    "key": "palette.text.37.216",
+    "original": "Dane",
+    "pl": "Dane",
+    "en": "Data",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 39,
+    "key": "palette.text.39.217",
+    "original": "Zbiór: sklep",
+    "pl": "Zbiór: sklep",
+    "en": "Dataset: shop",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 39,
+    "key": "palette.hint.39",
+    "original": "przykład",
+    "pl": "przykład",
+    "en": "example",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 40,
+    "key": "palette.text.40.218",
+    "original": "Zbiór: kampanie reklamowe",
+    "pl": "Zbiór: kampanie reklamowe",
+    "en": "Dataset: ad campaigns",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 40,
+    "key": "palette.hint.40",
+    "original": "przykład",
+    "pl": "przykład",
+    "en": "example",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 41,
+    "key": "palette.text.41.219",
+    "original": "Zbiór: obsługa klienta",
+    "pl": "Zbiór: obsługa klienta",
+    "en": "Dataset: customer support",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 41,
+    "key": "palette.hint.41",
+    "original": "przykład",
+    "pl": "przykład",
+    "en": "example",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 45,
+    "key": "palette.text.45.220",
+    "original": "Kontakt",
+    "pl": "Kontakt",
+    "en": "Contact",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 47,
+    "key": "palette.text.47.221",
+    "original": "Kopiuj adres e-mail",
+    "pl": "Kopiuj adres e-mail",
+    "en": "Copy email address",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 48,
+    "key": "palette.text.48.222",
+    "original": "Napisz e-mail",
+    "pl": "Napisz e-mail",
+    "en": "Send an email",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 48,
+    "key": "palette.text.48.223",
+    "original": "otwiera program pocztowy",
+    "pl": "otwiera program pocztowy",
+    "en": "opens email app",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 52,
+    "key": "palette.text.52.224",
+    "original": "Linki",
+    "pl": "Linki",
+    "en": "Links",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 54,
+    "key": "palette.text.54.225",
+    "original": "GitHub",
+    "pl": "GitHub",
+    "en": "GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 54,
+    "key": "palette.text.54.226",
+    "original": "MaciejWlodarski",
+    "pl": "MaciejWlodarski",
+    "en": "MaciejWlodarski",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 55,
+    "key": "palette.text.55.227",
+    "original": "X",
+    "pl": "X",
+    "en": "X",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 55,
+    "key": "palette.text.55.228",
+    "original": "profil",
+    "pl": "profil",
+    "en": "profile",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 56,
+    "key": "palette.text.56.229",
+    "original": "Burrow na GitHubie",
+    "pl": "Burrow na GitHubie",
+    "en": "Burrow on GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 56,
+    "key": "palette.hint.56",
+    "original": "kod",
+    "pl": "kod",
+    "en": "code",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 57,
+    "key": "palette.text.57.230",
+    "original": "Gwar na GitHubie",
+    "pl": "Gwar na GitHubie",
+    "en": "Gwar on GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 57,
+    "key": "palette.hint.57",
+    "original": "kod",
+    "pl": "kod",
+    "en": "code",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 58,
+    "key": "palette.text.58.231",
+    "original": "mcpm na GitHubie",
+    "pl": "mcpm na GitHubie",
+    "en": "mcpm on GitHub",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 58,
+    "key": "palette.hint.58",
+    "original": "kod",
+    "pl": "kod",
+    "en": "code",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 110,
+    "key": "palette.text.110.232",
+    "original": "Szukaj na stronie",
+    "pl": "Szukaj na stronie",
+    "en": "Search this site",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 110,
+    "key": "palette.text.110.233",
+    "original": "Dokąd przejść albo co zrobić",
+    "pl": "Dokąd przejść albo co zrobić",
+    "en": "Where to go or what to do",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 112,
+    "key": "palette.text.112.234",
+    "original": "Dokąd przejść albo co zrobić?",
+    "pl": "Dokąd przejść albo co zrobić?",
+    "en": "Where to go or what to do?",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 114,
+    "key": "palette.text.114.235",
+    "original": "Nic nie pasuje. Spróbuj „dane”, „bryła” albo „e-mail”.",
+    "pl": "Nic nie pasuje. Spróbuj „dane”, „bryła” albo „e-mail”.",
+    "en": "No matches. Try “data”, “solid” or “email”.",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 138,
+    "key": "palette.text.138.236",
+    "original": "wybór",
+    "pl": "wybór",
+    "en": "select",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 141,
+    "key": "palette.text.141.237",
+    "original": "otwiera",
+    "pl": "otwiera",
+    "en": "open",
+    "note": ""
+  },
+  {
+    "file": "src/components/site/command-palette.tsx",
+    "line": 144,
+    "key": "palette.text.144.238",
+    "original": "zamyka",
+    "pl": "zamyka",
+    "en": "close",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 36,
+    "key": "dataset.window.last",
+    "original": "Ostatnie {n} dni",
+    "pl": "Ostatnie {n} dni",
+    "en": "Last {n} days",
+    "note": "Obecne zakresy to 7, 14 i 30. Dla innych wartości PL: dzień/dni; EN: day/days."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 36,
+    "key": "dataset.window.days",
+    "original": "Dni {start}–{end}",
+    "pl": "Dni {start}–{end}",
+    "en": "Days {start}–{end}",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.1",
+    "original": "Lampa",
+    "pl": "Lampa",
+    "en": "Lamp",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.2",
+    "original": "Kubek",
+    "pl": "Kubek",
+    "en": "Mug",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.3",
+    "original": "Plecak",
+    "pl": "Plecak",
+    "en": "Backpack",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.4",
+    "original": "Słuchawki",
+    "pl": "Słuchawki",
+    "en": "Headphones",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.5",
+    "original": "Notes A5",
+    "pl": "Notes A5",
+    "en": "A5 notebook",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.6",
+    "original": "Torba",
+    "pl": "Torba",
+    "en": "Bag",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.7",
+    "original": "Ramka",
+    "pl": "Ramka",
+    "en": "Frame",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.8",
+    "original": "Głośnik",
+    "pl": "Głośnik",
+    "en": "Speaker",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.9",
+    "original": "Organizer",
+    "pl": "Organizer",
+    "en": "Organizer",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.10",
+    "original": "Butelka",
+    "pl": "Butelka",
+    "en": "Bottle",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.11",
+    "original": "Poduszka",
+    "pl": "Poduszka",
+    "en": "Cushion",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.12",
+    "original": "Zegar",
+    "pl": "Zegar",
+    "en": "Clock",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.13",
+    "original": "Świeca",
+    "pl": "Świeca",
+    "en": "Candle",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.14",
+    "original": "Puzzle",
+    "pl": "Puzzle",
+    "en": "Puzzle",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.15",
+    "original": "Kalendarz",
+    "pl": "Kalendarz",
+    "en": "Calendar",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 38,
+    "key": "dataset.names.38.16",
+    "original": "Brelok",
+    "pl": "Brelok",
+    "en": "Keyring",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.1",
+    "original": "Remarketing",
+    "pl": "Remarketing",
+    "en": "Remarketing",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.2",
+    "original": "Wideo 15 s",
+    "pl": "Wideo 15 s",
+    "en": "15-second video",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.3",
+    "original": "Newsletter",
+    "pl": "Newsletter",
+    "en": "Newsletter",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.4",
+    "original": "Wyszukiwarka",
+    "pl": "Wyszukiwarka",
+    "en": "Search",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.5",
+    "original": "Karuzela",
+    "pl": "Karuzela",
+    "en": "Carousel",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.6",
+    "original": "Influencer",
+    "pl": "Influencer",
+    "en": "Influencer",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.7",
+    "original": "Podcast",
+    "pl": "Podcast",
+    "en": "Podcast",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.8",
+    "original": "Banery",
+    "pl": "Banery",
+    "en": "Banners",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.9",
+    "original": "Kod rabatowy",
+    "pl": "Kod rabatowy",
+    "en": "Discount code",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.10",
+    "original": "Polecenia",
+    "pl": "Polecenia",
+    "en": "Referrals",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.11",
+    "original": "Konkurs",
+    "pl": "Konkurs",
+    "en": "Contest",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.12",
+    "original": "Webinar",
+    "pl": "Webinar",
+    "en": "Webinar",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.13",
+    "original": "Koszyk",
+    "pl": "Koszyk",
+    "en": "Cart",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.14",
+    "original": "Lookalike",
+    "pl": "Lookalike",
+    "en": "Lookalike",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.15",
+    "original": "Sezonowa",
+    "pl": "Sezonowa",
+    "en": "Seasonal",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 39,
+    "key": "dataset.names.39.16",
+    "original": "Marka",
+    "pl": "Marka",
+    "en": "Brand",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.1",
+    "original": "Ola",
+    "pl": "Ola",
+    "en": "Ola",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.2",
+    "original": "Kuba",
+    "pl": "Kuba",
+    "en": "Kuba",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.3",
+    "original": "Zosia",
+    "pl": "Zosia",
+    "en": "Zosia",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.4",
+    "original": "Bartek",
+    "pl": "Bartek",
+    "en": "Bartek",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.5",
+    "original": "Nina",
+    "pl": "Nina",
+    "en": "Nina",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.6",
+    "original": "Igor",
+    "pl": "Igor",
+    "en": "Igor",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.7",
+    "original": "Maja",
+    "pl": "Maja",
+    "en": "Maja",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.8",
+    "original": "Tymon",
+    "pl": "Tymon",
+    "en": "Tymon",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.9",
+    "original": "Lena",
+    "pl": "Lena",
+    "en": "Lena",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.10",
+    "original": "Adam",
+    "pl": "Adam",
+    "en": "Adam",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.11",
+    "original": "Ewa",
+    "pl": "Ewa",
+    "en": "Ewa",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.12",
+    "original": "Filip",
+    "pl": "Filip",
+    "en": "Filip",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.13",
+    "original": "Hania",
+    "pl": "Hania",
+    "en": "Hania",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.14",
+    "original": "Olek",
+    "pl": "Olek",
+    "en": "Olek",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.15",
+    "original": "Iga",
+    "pl": "Iga",
+    "en": "Iga",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 40,
+    "key": "dataset.names.40.16",
+    "original": "Staś",
+    "pl": "Staś",
+    "en": "Staś",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 48,
+    "key": "dataset.range.48",
+    "original": "{n} dni",
+    "pl": "{n} dni",
+    "en": "{n} days",
+    "note": "Aktualne wartości 7, 14, 30; przy innych wartościach stosować właściwą liczbę gramatyczną."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 50,
+    "key": "dataset.label.50",
+    "original": "Produkt",
+    "pl": "Produkt",
+    "en": "Product",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 51,
+    "key": "dataset.label.51",
+    "original": "pozostałe",
+    "pl": "pozostałe",
+    "en": "others",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 54,
+    "key": "dataset.metric.54.label",
+    "original": "Sprzedaż dziennie",
+    "pl": "Sprzedaż dziennie",
+    "en": "Daily sales",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 54,
+    "key": "dataset.metric.54.high",
+    "original": "większą sprzedaż",
+    "pl": "większą sprzedaż",
+    "en": "higher sales",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 54,
+    "key": "dataset.metric.54.low",
+    "original": "mniejszą sprzedaż",
+    "pl": "mniejszą sprzedaż",
+    "en": "lower sales",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 54,
+    "key": "dataset.metric.54.instrumental",
+    "original": "sprzedażą",
+    "pl": "sprzedażą",
+    "en": "sales",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 55,
+    "key": "dataset.metric.55.label",
+    "original": "Marża",
+    "pl": "Marża",
+    "en": "Margin",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 55,
+    "key": "dataset.metric.55.high",
+    "original": "wyższą marżę",
+    "pl": "wyższą marżę",
+    "en": "a higher margin",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 55,
+    "key": "dataset.metric.55.low",
+    "original": "niższą marżę",
+    "pl": "niższą marżę",
+    "en": "a lower margin",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 55,
+    "key": "dataset.metric.55.instrumental",
+    "original": "marżą",
+    "pl": "marżą",
+    "en": "margin",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 55,
+    "key": "dataset.unit.55",
+    "original": "%",
+    "pl": "%",
+    "en": "%",
+    "note": "Bez odstępu przed znakiem procentu w obecnym kodzie."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 56,
+    "key": "dataset.metric.56.label",
+    "original": "Zwroty",
+    "pl": "Zwroty",
+    "en": "Returns",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 56,
+    "key": "dataset.metric.56.high",
+    "original": "więcej zwrotów",
+    "pl": "więcej zwrotów",
+    "en": "more returns",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 56,
+    "key": "dataset.metric.56.low",
+    "original": "mniej zwrotów",
+    "pl": "mniej zwrotów",
+    "en": "fewer returns",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 56,
+    "key": "dataset.metric.56.instrumental",
+    "original": "zwrotami",
+    "pl": "zwrotami",
+    "en": "returns",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 56,
+    "key": "dataset.unit.56",
+    "original": "%",
+    "pl": "%",
+    "en": "%",
+    "note": "Bez odstępu przed znakiem procentu w obecnym kodzie."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 57,
+    "key": "dataset.metric.57.label",
+    "original": "Ocena",
+    "pl": "Ocena",
+    "en": "Rating",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 57,
+    "key": "dataset.metric.57.high",
+    "original": "wyższą ocenę",
+    "pl": "wyższą ocenę",
+    "en": "a higher rating",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 57,
+    "key": "dataset.metric.57.low",
+    "original": "niższą ocenę",
+    "pl": "niższą ocenę",
+    "en": "a lower rating",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 57,
+    "key": "dataset.metric.57.instrumental",
+    "original": "oceną",
+    "pl": "oceną",
+    "en": "rating",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 78,
+    "key": "dataset.range.78",
+    "original": "{n} dni",
+    "pl": "{n} dni",
+    "en": "{n} days",
+    "note": "Aktualne wartości 7, 14, 30; przy innych wartościach stosować właściwą liczbę gramatyczną."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 80,
+    "key": "dataset.label.80",
+    "original": "Kampania",
+    "pl": "Kampania",
+    "en": "Campaign",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 81,
+    "key": "dataset.label.81",
+    "original": "pozostałe",
+    "pl": "pozostałe",
+    "en": "others",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 84,
+    "key": "dataset.metric.84.label",
+    "original": "Budżet dzienny",
+    "pl": "Budżet dzienny",
+    "en": "Daily budget",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 84,
+    "key": "dataset.metric.84.high",
+    "original": "większy budżet",
+    "pl": "większy budżet",
+    "en": "a larger budget",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 84,
+    "key": "dataset.metric.84.low",
+    "original": "mniejszy budżet",
+    "pl": "mniejszy budżet",
+    "en": "a smaller budget",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 84,
+    "key": "dataset.metric.84.instrumental",
+    "original": "budżetem",
+    "pl": "budżetem",
+    "en": "budget",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 84,
+    "key": "dataset.unit.84",
+    "original": " zł",
+    "pl": " zł",
+    "en": " PLN",
+    "note": "Odstęp przed jednostką zachowany; liczby w EN z kropką dziesiętną."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 85,
+    "key": "dataset.metric.85.label",
+    "original": "CTR",
+    "pl": "CTR",
+    "en": "CTR",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 85,
+    "key": "dataset.metric.85.high",
+    "original": "wyższy CTR",
+    "pl": "wyższy CTR",
+    "en": "a higher CTR",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 85,
+    "key": "dataset.metric.85.low",
+    "original": "niższy CTR",
+    "pl": "niższy CTR",
+    "en": "a lower CTR",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 85,
+    "key": "dataset.metric.85.instrumental",
+    "original": "CTR",
+    "pl": "CTR",
+    "en": "CTR",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 85,
+    "key": "dataset.unit.85",
+    "original": "%",
+    "pl": "%",
+    "en": "%",
+    "note": "Bez odstępu przed znakiem procentu w obecnym kodzie."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 86,
+    "key": "dataset.metric.86.label",
+    "original": "Konwersja",
+    "pl": "Konwersja",
+    "en": "Conversion",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 86,
+    "key": "dataset.metric.86.high",
+    "original": "wyższą konwersję",
+    "pl": "wyższą konwersję",
+    "en": "a higher conversion rate",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 86,
+    "key": "dataset.metric.86.low",
+    "original": "niższą konwersję",
+    "pl": "niższą konwersję",
+    "en": "a lower conversion rate",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 86,
+    "key": "dataset.metric.86.instrumental",
+    "original": "konwersją",
+    "pl": "konwersją",
+    "en": "conversion rate",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 86,
+    "key": "dataset.unit.86",
+    "original": "%",
+    "pl": "%",
+    "en": "%",
+    "note": "Bez odstępu przed znakiem procentu w obecnym kodzie."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 87,
+    "key": "dataset.metric.87.label",
+    "original": "Koszt pozyskania",
+    "pl": "Koszt pozyskania",
+    "en": "Acquisition cost",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 87,
+    "key": "dataset.metric.87.high",
+    "original": "wyższy koszt pozyskania",
+    "pl": "wyższy koszt pozyskania",
+    "en": "a higher acquisition cost",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 87,
+    "key": "dataset.metric.87.low",
+    "original": "niższy koszt pozyskania",
+    "pl": "niższy koszt pozyskania",
+    "en": "a lower acquisition cost",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 87,
+    "key": "dataset.metric.87.instrumental",
+    "original": "kosztem pozyskania",
+    "pl": "kosztem pozyskania",
+    "en": "acquisition cost",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 87,
+    "key": "dataset.unit.87",
+    "original": " zł",
+    "pl": " zł",
+    "en": " PLN",
+    "note": "Odstęp przed jednostką zachowany; liczby w EN z kropką dziesiętną."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 109,
+    "key": "dataset.range.109",
+    "original": "{n} dni",
+    "pl": "{n} dni",
+    "en": "{n} days",
+    "note": "Aktualne wartości 7, 14, 30; przy innych wartościach stosować właściwą liczbę gramatyczną."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 111,
+    "key": "dataset.label.111",
+    "original": "Konsultant",
+    "pl": "Konsultant",
+    "en": "Agent",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 112,
+    "key": "dataset.label.112",
+    "original": "pozostali",
+    "pl": "pozostali",
+    "en": "others",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 115,
+    "key": "dataset.metric.115.label",
+    "original": "Czas odpowiedzi",
+    "pl": "Czas odpowiedzi",
+    "en": "Response time",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 115,
+    "key": "dataset.metric.115.high",
+    "original": "dłuższy czas odpowiedzi",
+    "pl": "dłuższy czas odpowiedzi",
+    "en": "a longer response time",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 115,
+    "key": "dataset.metric.115.low",
+    "original": "krótszy czas odpowiedzi",
+    "pl": "krótszy czas odpowiedzi",
+    "en": "a shorter response time",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 115,
+    "key": "dataset.metric.115.instrumental",
+    "original": "czasem odpowiedzi",
+    "pl": "czasem odpowiedzi",
+    "en": "response time",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 115,
+    "key": "dataset.unit.115",
+    "original": " min",
+    "pl": " min",
+    "en": " min",
+    "note": "Odstęp przed jednostką zachowany; liczby w EN z kropką dziesiętną."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 116,
+    "key": "dataset.metric.116.label",
+    "original": "Ocena klienta",
+    "pl": "Ocena klienta",
+    "en": "Customer rating",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 116,
+    "key": "dataset.metric.116.high",
+    "original": "wyższą ocenę klientów",
+    "pl": "wyższą ocenę klientów",
+    "en": "a higher customer rating",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 116,
+    "key": "dataset.metric.116.low",
+    "original": "niższą ocenę klientów",
+    "pl": "niższą ocenę klientów",
+    "en": "a lower customer rating",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 116,
+    "key": "dataset.metric.116.instrumental",
+    "original": "oceną klientów",
+    "pl": "oceną klientów",
+    "en": "customer rating",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 117,
+    "key": "dataset.metric.117.label",
+    "original": "Zgłoszenia dziennie",
+    "pl": "Zgłoszenia dziennie",
+    "en": "Daily tickets",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 117,
+    "key": "dataset.metric.117.high",
+    "original": "więcej zgłoszeń",
+    "pl": "więcej zgłoszeń",
+    "en": "more tickets",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 117,
+    "key": "dataset.metric.117.low",
+    "original": "mniej zgłoszeń",
+    "pl": "mniej zgłoszeń",
+    "en": "fewer tickets",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 117,
+    "key": "dataset.metric.117.instrumental",
+    "original": "liczbą zgłoszeń",
+    "pl": "liczbą zgłoszeń",
+    "en": "number of tickets",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 118,
+    "key": "dataset.metric.118.label",
+    "original": "Od razu rozwiązane",
+    "pl": "Od razu rozwiązane",
+    "en": "Resolved immediately",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 118,
+    "key": "dataset.metric.118.high",
+    "original": "więcej spraw rozwiązanych od razu",
+    "pl": "więcej spraw rozwiązanych od razu",
+    "en": "more cases resolved immediately",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 118,
+    "key": "dataset.metric.118.low",
+    "original": "mniej spraw rozwiązanych od razu",
+    "pl": "mniej spraw rozwiązanych od razu",
+    "en": "fewer cases resolved immediately",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 118,
+    "key": "dataset.metric.118.instrumental",
+    "original": "sprawami rozwiązanymi od razu",
+    "pl": "sprawami rozwiązanymi od razu",
+    "en": "cases resolved immediately",
+    "note": "Fragment zdania; dobór formy zależy od lokalnego szablonu."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 118,
+    "key": "dataset.unit.118",
+    "original": "%",
+    "pl": "%",
+    "en": "%",
+    "note": "Bez odstępu przed znakiem procentu w obecnym kodzie."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 225,
+    "key": "insight.sameSelection",
+    "original": "Wybierz dwie różne pozycje, żeby je porównać.",
+    "pl": "Wybierz dwie różne pozycje, żeby je porównać.",
+    "en": "Choose two different items to compare.",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 231,
+    "key": "insight.equal",
+    "original": "{A} i {B} wypadają tak samo: {metric} {value}",
+    "pl": "{A} i {B} wypadają tak samo: {metric} {value}",
+    "en": "{A} and {B} are equal: {metric} {value}",
+    "note": "Nazwy próbek są używane w PL bez odmiany; forma zdania musi pasować do każdej metryki."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 231,
+    "key": "insight.compare",
+    "original": "{A} ma {comparison} niż {B}",
+    "pl": "{A} ma {comparison} niż {B}",
+    "en": "{A} has {comparison} than {B}",
+    "note": "{comparison} to odpowiednia forma high/low; obie nazwy występują w mianowniku."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 245,
+    "key": "insight.period",
+    "original": ".",
+    "pl": ".",
+    "en": ".",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 246,
+    "key": "insight.other",
+    "original": ", ale {comparison}.",
+    "pl": ", ale {comparison}.",
+    "en": ", but has {comparison}.",
+    "note": "Fragment dopisywany do porównania; pole comparison ma różne rodzajniki w EN."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 247,
+    "key": "insight.all",
+    "original": " i wypada {result} we wszystkich czterech miarach.",
+    "pl": " i wypada {result} we wszystkich czterech miarach.",
+    "en": " and performs {result} across all four metrics.",
+    "note": "W obecnym kodzie równe po zaokrągleniu pozostałe miary nie wykluczają tego zdania; określenie „we wszystkich” może więc być nieścisłe. Zweryfikować logikę przed użyciem."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 247,
+    "key": "insight.result.376",
+    "original": "lepiej",
+    "pl": "lepiej",
+    "en": "better",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 247,
+    "key": "insight.result.377",
+    "original": "słabiej",
+    "pl": "słabiej",
+    "en": "worse",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 250,
+    "key": "insight.strength.378",
+    "original": "silna",
+    "pl": "silna",
+    "en": "strong",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 250,
+    "key": "insight.strength.379",
+    "original": "wyraźna",
+    "pl": "wyraźna",
+    "en": "moderate",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 250,
+    "key": "insight.strength.380",
+    "original": "słaba",
+    "pl": "słaba",
+    "en": "weak",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 250,
+    "key": "insight.strength.381",
+    "original": "prawie żadna",
+    "pl": "prawie żadna",
+    "en": "almost none",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 253,
+    "key": "insight.sameAxis",
+    "original": "Ta sama miara na obu osiach: wybierz inną oś, żeby zobaczyć zależność.",
+    "pl": "Ta sama miara na obu osiach: wybierz inną oś, żeby zobaczyć zależność.",
+    "en": "The same metric is on both axes. Choose a different one to see the relationship.",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 254,
+    "key": "insight.trend",
+    "original": "Zależność między {x} a {y}: {strength}{direction}, r = {r}.",
+    "pl": "Zależność między {x} a {y}: {strength}{direction}, r = {r}.",
+    "en": "Relationship between {x} and {y}: {strength}{direction}, r = {r}.",
+    "note": "PL {x}/{y} w narzędniku; EN używa nazw miar. Liczbę r formatować z kropką; zachować znak minus. Niełamiące spacje wokół = w PL."
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 254,
+    "key": "insight.positive",
+    "original": ", dodatnia",
+    "pl": ", dodatnia",
+    "en": ", positive",
+    "note": ""
+  },
+  {
+    "file": "src/lib/datasets.ts",
+    "line": 254,
+    "key": "insight.negative",
+    "original": ", ujemna",
+    "pl": ", ujemna",
+    "en": ", negative",
+    "note": ""
+  },
+  {
+    "file": "src/lib/crystal-engine.ts",
+    "line": 18,
+    "key": "engine.density.1",
+    "original": "rzadko",
+    "pl": "rzadko",
+    "en": "sparse",
+    "note": "Eksportowana etykieta; obecnie brak użycia w podanych komponentach."
+  },
+  {
+    "file": "src/lib/crystal-engine.ts",
+    "line": 18,
+    "key": "engine.density.2",
+    "original": "luźno",
+    "pl": "luźno",
+    "en": "light",
+    "note": "Eksportowana etykieta; obecnie brak użycia w podanych komponentach."
+  },
+  {
+    "file": "src/lib/crystal-engine.ts",
+    "line": 18,
+    "key": "engine.density.3",
+    "original": "średnio",
+    "pl": "średnio",
+    "en": "medium",
+    "note": "Eksportowana etykieta; obecnie brak użycia w podanych komponentach."
+  },
+  {
+    "file": "src/lib/crystal-engine.ts",
+    "line": 18,
+    "key": "engine.density.4",
+    "original": "gęsto",
+    "pl": "gęsto",
+    "en": "dense",
+    "note": "Eksportowana etykieta; obecnie brak użycia w podanych komponentach."
+  },
+  {
+    "file": "src/lib/crystal-engine.ts",
+    "line": 18,
+    "key": "engine.density.5",
+    "original": "bardzo gęsto",
+    "pl": "bardzo gęsto",
+    "en": "very dense",
+    "note": "Eksportowana etykieta; obecnie brak użycia w podanych komponentach."
+  },
+  {
+    "file": "src/lib/crystal-engine.ts",
+    "line": 231,
+    "key": "engine.defaultText",
+    "original": "Maciej",
+    "pl": "Maciej",
+    "en": "Maciej",
+    "note": "Domyślny napis na scenie; zsynchronizowany ze stanem komponentu."
+  },
+  {
+    "file": "src/lib/motion.ts",
+    "line": 27,
+    "key": "points.387",
+    "original": "punkt",
+    "pl": "punkt",
+    "en": "point",
+    "note": "PL: 1 punkt; końcówki 2–4 poza 12–14: punkty; pozostałe: punktów. EN: 1 point, pozostałe points."
+  },
+  {
+    "file": "src/lib/motion.ts",
+    "line": 30,
+    "key": "points.388",
+    "original": "punkty",
+    "pl": "punkty",
+    "en": "points",
+    "note": "PL: 1 punkt; końcówki 2–4 poza 12–14: punkty; pozostałe: punktów. EN: 1 point, pozostałe points."
+  },
+  {
+    "file": "src/lib/motion.ts",
+    "line": 30,
+    "key": "points.389",
+    "original": "punktów",
+    "pl": "punktów",
+    "en": "points",
+    "note": "PL: 1 punkt; końcówki 2–4 poza 12–14: punkty; pozostałe: punktów. EN: 1 point, pozostałe points."
+  },
+  {
+    "file": "public/manifest.json",
+    "line": 2,
+    "key": "manifest.shortName",
+    "original": "MW",
+    "pl": "MW",
+    "en": "MW",
+    "note": ""
+  },
+  {
+    "file": "public/manifest.json",
+    "line": 3,
+    "key": "manifest.name",
+    "original": "Maciej Włodarski",
+    "pl": "Maciej Włodarski",
+    "en": "Maciej Włodarski",
+    "note": ""
+  }
+]
