@@ -307,7 +307,7 @@ export function About() {
   return (
     <section id="o-mnie" aria-labelledby="me-h" className="py-[clamp(80px,9.5vw,140px)]">
       {/* photo and text share one height: the photo stretches to the column, the music card closes it at the bottom */}
-      <div className="wrap grid gap-x-[clamp(40px,5vw,72px)] gap-y-10 min-[901px]:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
+      <div className="wrap grid gap-x-[clamp(40px,5vw,72px)] gap-y-10 *:min-w-0 min-[901px]:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
         <div data-reveal="scale" className="max-[900px]:max-w-[360px]">
           <div
             role="img"

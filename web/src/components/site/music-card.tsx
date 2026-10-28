@@ -277,7 +277,7 @@ export function MusicCard({ className }: { className?: string }) {
       <Tabs defaultValue="now" className="mt-3.5 gap-0">
         <TabsList aria-labelledby="music-h" className="h-auto rounded-full bg-muted p-[3px]">
           {TABS.map((v) => (
-            <TabsTrigger key={v} value={v} className="h-8 rounded-full px-3.5 text-sm data-active:bg-surface">
+            <TabsTrigger key={v} value={v} className="h-8 rounded-full px-3.5 text-sm data-active:bg-surface max-[380px]:px-2.5">
               {t.tabs[v]}
             </TabsTrigger>
           ))}

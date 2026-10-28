@@ -20,6 +20,7 @@ const COPY = {
     search: "Szukaj",
     searchLabel: (key: string) => `Szukaj na stronie (${key})`,
     write: "Napisz",
+    writeShort: "Napisz",
     other: { code: "EN", label: "English version", lang: "en" as Lang },
   },
   en: {
@@ -33,6 +34,7 @@ const COPY = {
     search: "Search",
     searchLabel: (key: string) => `Search this site (${key})`,
     write: "Get in touch",
+    writeShort: "Contact",
     other: { code: "PL", label: "Wersja polska", lang: "pl" as Lang },
   },
 }
@@ -73,7 +75,7 @@ export function SiteHeader() {
         <a href="#top" className="mr-auto text-[17px] font-semibold tracking-[-0.01em] whitespace-nowrap no-underline max-[380px]:text-[15px]">
           Maciej Włodarski
         </a>
-        <nav aria-label={t.navLabel} className="flex items-center gap-[26px] text-sm max-sm:gap-2.5">
+        <nav aria-label={t.navLabel} className="flex items-center gap-[26px] text-sm max-sm:gap-2.5 max-[380px]:gap-1">
           {t.nav.map(([href, label]) => (
             <a key={href} href={href} className="no-underline opacity-85 hover:opacity-100 max-[1100px]:hidden">
               {label}
@@ -100,8 +102,9 @@ export function SiteHeader() {
           >
             {t.other.code}
           </a>
-          <a href="#kontakt" className={cn(buttonVariants({ size: "sm" }), "h-[34px] rounded-full px-[15px] whitespace-nowrap max-[380px]:px-3")}>
-            {t.write}
+          <a href="#kontakt" className={cn(buttonVariants({ size: "sm" }), "h-[34px] rounded-full px-[15px] whitespace-nowrap max-[380px]:px-2.5")}>
+            <span className="max-[380px]:hidden">{t.write}</span>
+            <span className="hidden max-[380px]:inline">{t.writeShort}</span>
           </a>
         </nav>
       </div>

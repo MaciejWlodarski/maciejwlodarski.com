@@ -425,7 +425,7 @@ export function DataLab() {
               </Ctl>
             </div>
 
-            <div className="mt-[22px] grid gap-4 min-[901px]:grid-cols-[2fr_1fr]">
+            <div className="mt-[22px] grid gap-4 *:min-w-0 min-[901px]:grid-cols-[2fr_1fr]">
               <div className="flex flex-col rounded-[18px] bg-surface">
                 <div
                   ref={chartRef}

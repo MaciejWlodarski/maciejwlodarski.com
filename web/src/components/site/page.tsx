@@ -11,16 +11,18 @@ import { HOME, LANGS, LangProvider, type Lang } from "@/lib/i18n"
 
 export const SITE = "https://maciejwlodarski.com"
 
-export const META: Record<Lang, { title: string; description: string; locale: string }> = {
+export const META: Record<Lang, { title: string; description: string; locale: string; imageAlt: string }> = {
   pl: {
     title: "Maciej Włodarski: aplikacje i narzędzia",
     description: "Maciej Włodarski. Aplikacje web, desktop i CLI, integracje, automatyzacje z AI, dane i 3D.",
     locale: "pl_PL",
+    imageAlt: "Maciej Włodarski: zamieniam pomysły w aplikacje, narzędzia, integracje i automatyzacje.",
   },
   en: {
     title: "Maciej Włodarski: apps and tools",
     description: "Maciej Włodarski. Web, desktop and CLI apps, integrations, AI automation, data and 3D.",
     locale: "en_US",
+    imageAlt: "Maciej Włodarski: I turn ideas into apps, tools, integrations and automations.",
   },
 }
 
@@ -35,6 +37,12 @@ export function pageHead(lang: Lang) {
       { property: "og:description", content: m.description },
       { property: "og:locale", content: m.locale },
       { property: "og:url", content: SITE + HOME[lang] },
+      { property: "og:image", content: `${SITE}/og-${lang}.png` },
+      { property: "og:image:width", content: "1200" },
+      { property: "og:image:height", content: "630" },
+      { property: "og:image:alt", content: m.imageAlt },
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:image", content: `${SITE}/og-${lang}.png` },
     ],
     links: [
       { rel: "canonical", href: SITE + HOME[lang] },
