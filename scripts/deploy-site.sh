@@ -30,6 +30,10 @@ if ! flock -n 9; then
   exit 1
 fi
 revision=$(git rev-parse HEAD)
+if ! sudo -n true; then
+  echo "Passwordless sudo is required for deployment." >&2
+  exit 1
+fi
 
 work_dir=$(mktemp -d "${TMPDIR:-/tmp}/maciejwlodarski-build.XXXXXXXX")
 backup_dir=
@@ -39,7 +43,7 @@ cleanup() {
   trap - EXIT
   if (( restore )); then
     echo "Deployment failed; restoring previous files from $backup_dir." >&2
-    if ! sudo rsync -a --delete -- "$backup_dir/" "$site_dir/"; then
+    if ! sudo -n rsync -a --delete -- "$backup_dir/" "$site_dir/"; then
       echo "Automatic restore failed. The backup remains at $backup_dir." >&2
     fi
   fi
@@ -65,23 +69,22 @@ for page in index.html en/index.html 404.html en/404.html; do
   fi
 done
 
-sudo -v
-if ! sudo test -d "$site_dir" || sudo test -L "$site_dir"; then
+if ! sudo -n test -d "$site_dir" || sudo -n test -L "$site_dir"; then
   echo "Expected an existing non-symlink directory at $site_dir; stopping." >&2
   exit 1
 fi
 
 # Keep a dated server-side snapshot; do not delete it automatically. Backups are
 # outside the web root and independent of the build working directory.
-sudo install -d -m 0750 "$backup_root"
-backup_dir=$(sudo mktemp -d "$backup_root/before-$(date -u +%Y%m%dT%H%M%SZ).XXXXXXXX")
-sudo rsync -a -- "$site_dir/" "$backup_dir/"
+sudo -n install -d -m 0750 "$backup_root"
+backup_dir=$(sudo -n mktemp -d "$backup_root/before-$(date -u +%Y%m%dT%H%M%SZ).XXXXXXXX")
+sudo -n rsync -a -- "$site_dir/" "$backup_dir/"
 
 # A failed build never reaches this point. rsync stages updated files before
 # replacing them; if publication fails, the exit handler restores the snapshot.
 # Keep ACME challenge files if they exist in the web root.
 restore=1
-sudo rsync -a --delay-updates --delete-delay --exclude='/.well-known/' \
+sudo -n rsync -a --delay-updates --delete-delay --exclude='/.well-known/' \
   --chown=root:root --chmod=D755,F644 -- "$output_dir/" "$site_dir/"
 restore=0
 echo "Deployed $revision. Backup: $backup_dir"

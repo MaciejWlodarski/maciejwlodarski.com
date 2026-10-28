@@ -21,7 +21,8 @@ development machine. It connects to the configured `oracle` SSH host,
 fast-forwards `~/docker/maciejwlodarski.com` on its `main` branch, and runs
 the server-side deployment script from that revision. The server checkout must
 have no tracked modifications. SSH, GitHub access on the server, Docker, `flock`,
-`rsync`, and permission to use `sudo` are required.
+`rsync`, and passwordless `sudo` are required. The script checks non-interactive
+sudo access before starting the build and never prompts for a password.
 
 The server builds the committed sources in a temporary directory using
 `node:24-alpine`, verifies the static pages, and only then updates
